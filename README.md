@@ -38,14 +38,17 @@ Here are some key projects I’ve worked on:
 - **Link:** [View Project](https://drive.google.com/file/u/0/d/1E2jjo2FOCacFXf0jN4shVziEMLAWdXQ7/edit)
 
 ---
-
-## 4. Other Projects
+## Other Projects
 
 - **Sector AI Prototype** – Solves real-world problems using AI and no-code tools.  
+
 - **Custom Content Generator** – Generates text or visual content using AI APIs.  
+  - **Demo Video:** [Watch 3-Minute Demo](https://www.loom.com/share/2a270732506d423e8e09e254003b2132)
+
 - **Integrated AI Application** – Combined multiple AI technologies into a working solution.  
+
 - **Professional Portfolio (Current Project)** – GitHub portfolio showcasing all projects.
- 
+
 
 -  
 ---
