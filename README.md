@@ -14,7 +14,14 @@ Here are some key projects I’ve worked on:
 
 ## 1. AI Educational Chatbot
 - **Description:** Teaches AI fundamentals through interactive conversation flows.  
-- **Link:** [View Project](https://dialogflow.cloud.google.com/#/agent/learnmate-ctrl-ai-fnhs/intents) 
+- **Link:** [View Project](https://dialogflow.cloud.google.com/#/agent/learnmate-ctrl-ai-fnhs/intents)
+- 1. AI Educational Chatbot
+Description: Teaches AI fundamentals through interactive conversation flows.
+
+![AI Chatbot Screenshot](https://teams.microsoft.com/l/message/48:notes/1766051591270?context=%7B%22contextType%22%3A%22chat%22%2C%22oid%22%3A%228%3Aorgid%3Adeffe879-1a50-4028-bbb9-5d2eda4dcb68%22%7D )
+
+Link: View Project
+ 
 
 ---
 
@@ -29,6 +36,19 @@ Here are some key projects I’ve worked on:
   - Dataset and model bias analysis
   - Mitigation strategies applied
   - Insights and recommendations
+  -  2. Bias Audit Report
+Description: Analyzed dataset/model bias and implemented mitigation strategies.
+
+![Bias Audit Screenshot](<img width="1760" height="1320" alt="image" src="https://github.com/user-attachments/assets/9a17645a-5d55-4a97-a1a4-8c9cbeb196de" />
+)
+
+Link: View Project
+Project Presentation: View Presentation
+Key Highlights:
+- Dataset and model bias analysis
+- Mitigation strategies applied
+- Insights and recommendations
+
 
 
 ---
