@@ -21,6 +21,15 @@ Here are some key projects I’ve worked on:
 ## 2. Bias Audit Report
 - **Description:** Analyzed dataset/model bias and implemented mitigation strategies.  
 - **Link:** [View Project](https://drive.google.com/file/u/0/d/1E2jjo2FOCacFXf0jN4shVziEMLAWdXQ7/edit)
+- 
+- ##  Bias Audit Report presentation
+- **Description:** Analyzed dataset/model bias and implemented mitigation strategies.
+- **Project Presentation:** [View Presentation](https://capeitinitiative.sharepoint.com/:b:/s/KZN_Service_DeskAI_Oct2025-CtrlAIControlAI/IQDj_fO6DBtvQ4sXPmto1xQIAe6bU-R4lMIPjAUbkraNWT8?e=M5awYe)
+- **Key Highlights:** 
+  - Dataset and model bias analysis
+  - Mitigation strategies applied
+  - Insights and recommendations
+
 
 ---
 
