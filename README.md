@@ -52,9 +52,29 @@ Here are some key projects I’ve worked on:
 
 -  
 ---
+## Technical Skills & Competencies
 
-## Skills
-HTML, CSS, JavaScript, Python, Firebase, GitHub, No-code/Low-code platforms, AI tools (Chatbots, Content Generators, Bias Analysis), Problem-solving, Documentation
+**Programming Languages**  
+- Python: ███████ 7/10  
+- JavaScript: ██████ 6/10  
+- HTML & CSS: ███████ 7/10  
+
+**AI & ML Tools**  
+- Chatbots: ██████ 6/10  
+- Content Generators: █████ 5/10  
+- Bias Analysis: ██████ 6/10  
+
+**Web & App Development**  
+- Firebase: █████ 5/10  
+- GitHub: ███████ 7/10  
+- No-code/Low-code platforms: █████ 5/10  
+
+**Other Skills**  
+- Problem-solving: ███████ 7/10  
+- Documentation: ███████ 7/10  
+- Technical Communication: █████ 5/10
+
+
 
 ---
 
