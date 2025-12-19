@@ -3,6 +3,9 @@
 ## About Me
 Software Development student building a GitHub portfolio to showcase projects and practical skills. I enjoy creating applications, learning new technologies, and preparing for entry-level roles.
 
+**Career Objective**  
+I aim to start my career as an AI/ML developer, applying my skills in Python, AI models, and web development to create solutions that solve real-world problems.
+
 ---
 
 ## Projects
